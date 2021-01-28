@@ -170,12 +170,17 @@ blockquote {
 
   /* Track */
   ::-webkit-scrollbar-track {
-    background:  rgb(28, 28, 30);;
+    background:  grey;
+    border-radius: 10px;
+    box-shadow: inset 0px 0px 5px white;
   }
 
   /* Handle */
   ::-webkit-scrollbar-thumb {
-    background: #212529;
+    background-color: #2f3542;
+    border-radius: 10px;
+    background-clip: padding-box;
+    border: 2px solid transparent;
   }
 
   /* Handle on hover */
