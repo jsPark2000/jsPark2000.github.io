@@ -1,6 +1,6 @@
 ---
 name: Jisoo Park
-username: jsPark
+username: jspark
 bio: "Undergraduate student, Korea"
 site: https://sujaykundu.com
 avatar: jsPark.png
