@@ -31,12 +31,12 @@ johndoe:
         url: "https://flickr.com/johndoe"
 
 xplor4r:
-   name: Sujay kundu
-   username: xplor4r
+   name: Jisoo Park
+   username: jspark
    site: https://sujaykundu.com
-   avatar: xplor4r.png
-   bio: "Full Stack Web Developer, based in Bangalore, India"
-   email: mail@sujaykundu.com
+   avatar: jspark.png
+   bio: "Undergraduate student, Korea"
+   email: idpjs2000@gmail.com
    social:
       - title: "github"
         url: "https://github.com/sujaykundu777"
