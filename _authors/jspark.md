@@ -3,7 +3,7 @@ name: Jisoo Park
 username: jspark
 bio: "Undergraduate student, Korea"
 site: https://sujaykundu.com
-avatar: jsPark.png
+avatar: jspark.png
 email: idpjs2000@gmail.com
 social:
     - title: "github"
