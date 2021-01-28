@@ -138,9 +138,9 @@ yat:
 # Pagination setting
 # paginate: 5
 
-# Disqus comments
-# disqus:
-#   shortname: "Your Disqus username"
+Disqus comments
+disqus:
+   shortname: "jspark2000"
 
 # Gitment comments
 # gitment:
