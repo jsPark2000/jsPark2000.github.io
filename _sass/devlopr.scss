@@ -95,6 +95,7 @@ html,
 html[data-theme="dark"],
 html[data-theme="light"] {
     height: 100%;
+    width: 100%;
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
     scroll-behavior: smooth;
@@ -123,6 +124,7 @@ body {
     font-variant-numeric: oldstyle-nums;
     hanging-punctuation: first last;
     height: 100%;
+    width: 100%;
     line-height: 1.35em;
     margin: 0;
     text-rendering: optimizeLegibility;
@@ -259,7 +261,7 @@ header {
 }
 .card-title {
     margin-bottom: .75rem !important;
-    margin-left: 30px !important;
+    margin-left: 0px !important;
 }
 
 /* Search Overlay */
