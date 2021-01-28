@@ -2,8 +2,13 @@
 layout: post
 title:  "[CS231n] 1. Image Classification"
 summary: "Getting Started using devlopr-jekyll"
+<<<<<<< HEAD
 author: jspark
 date: '2021-01-28 14:35:23 +0530'
+=======
+author: johndoe
+date: '2019-05-22 14:35:23 +0530'
+>>>>>>> 9aeaa06e12510b7d8175c62e7bc6869ef4f33021
 category: CS231n
 thumbnail: /assets/img/posts/code.jpg
 keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll, devlopr-jekyll tutorial,best jekyll themes
