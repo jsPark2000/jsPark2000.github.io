@@ -130,9 +130,9 @@ yat:
 
 defaults:
   home:
-    heading: "Your awesome heading"
-    subheading: "Your awesome subheading"
-    banner: "Your image url"
+    heading: "Studying Artifical Inteligence"
+    subheading: "인공지능 관련정보 포스팅"
+    # banner: "Your image url"
 
 # Pagination setting
 # paginate: 5
